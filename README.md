@@ -1,4 +1,4 @@
-# NetWidget ☕
+# NetWidget 
 
 **Minimal & elegant network widget for Windows 10/11**
 
