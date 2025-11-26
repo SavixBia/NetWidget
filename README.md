@@ -14,7 +14,7 @@ A tiny always-on-top widget to view and change your IP in seconds — no bloat, 
 - Remembers position and starts with Windows
 
 ### Screenshots
-
+ 
 | Minimal mode | Expanded |
 |--------------|----------|
 | ![Minimal](https://github.com/SavixBia/NetWidget/releases/download/v1.0/Minimal.png) | ![Expanded](https://github.com/SavixBia/NetWidget/releases/download/v1.0/Expanded.png) 
